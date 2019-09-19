@@ -1,0 +1,5 @@
+Bondar=>GR-2
+Koval=>GR-1
+Lysuk=>GR-2
+Savkin=>GR-2
+Golubovych=>GR-1

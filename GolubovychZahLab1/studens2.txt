@@ -1,0 +1,5 @@
+Kot=>GR-1
+Lipin=>GR-2
+Dolgiy=>GR-2
+Nester=>GR-1
+Sobko=>GR-1
